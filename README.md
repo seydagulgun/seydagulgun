@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Frontend Development<br>🎯 Goals: Be a master in coding and testing.<br>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Machine Learning!<br>🎯 Goals: Be a master in engineering.<br>
 
 ###
 
