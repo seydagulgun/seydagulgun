@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Şeyda and I'm a Computer Engineer!</p>
+<p align="left">My name is Şeyda and I'm a Research Assistant in Çukurova University!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Machine Learning!<br>🎯 Goals: Be a master in engineering.<br>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Federated Learning!<br>🎯 Goals: Be a master in engineering.<br>
 
 ###
 
